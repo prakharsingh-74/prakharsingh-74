@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prakharsingh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakharsingh74" height="30" width="40" /></a>
 <a href="https://instagram.com/prakhar_singh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakhar_singh74" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/conatus gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="conatus gaming" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/conatus gaming](https://youtube.com/@conatus_gaming?si=ePmc4r6saD24cBVF)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="conatus gaming" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prakharsingh_bz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakharsingh_bz3" height="30" width="40" /></a>
 </p>
 
