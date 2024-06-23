@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/prakharsingh-74](github.com/prakharsingh-74)
 
-- 📫 How to reach me **prakharsingh.bz3@gmail.com**
+- 📫 How to reach me **prakharsingh7014@gmail.com**
 <p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
