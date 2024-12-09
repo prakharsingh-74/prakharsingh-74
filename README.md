@@ -30,12 +30,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=11)](https://visitcount.itsvg.in)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharsingh-74&show_icons=true&locale=en&layout=compact" alt="prakharsingh-74" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharsingh-74&show_icons=true&locale=en" alt="prakharsingh-74" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharsingh-74&" alt="prakharsingh-74" /></p>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
