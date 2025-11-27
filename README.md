@@ -17,8 +17,6 @@
   </picture>
 </a>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=prakharsingh-74)
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ## 🏆 GitHub Trophies
@@ -28,3 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=prakharsingh-74)
+
