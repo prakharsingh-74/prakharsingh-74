@@ -17,14 +17,6 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakharsingh-74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=prakharsingh-74)
