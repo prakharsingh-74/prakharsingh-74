@@ -6,23 +6,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prakharsingh-74&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prakharsingh-74&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsingh-74&layout=compact&theme=dark)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-contribution-repos?user_id=148339919" target="_blank" style="display: block" align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-contribution-repos/thumbnail.png?user_id=148339919&image_size=auto&color_scheme=dark"
-      width="771"
-      height="auto"
-    >
-    <img 
-      alt="Top repositories contributed by @prakharsingh-74"
-      src="https://next.ossinsight.io/widgets/official/compose-user-contribution-repos/thumbnail.png?user_id=148339919&image_size=auto&color_scheme=light"
-      width="771"
-      height="auto"
-    >
-  </picture>
-</a>
 
 
 ---
