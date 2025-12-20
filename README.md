@@ -8,9 +8,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prakharsingh-74&theme=dark&hide_border=false)<br/>
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=prakharsingh-74&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=0)](https://visitcount.itsvg.in)
 
